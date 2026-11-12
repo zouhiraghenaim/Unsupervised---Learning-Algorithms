@@ -33,4 +33,4 @@ $$J = \sum_{j=1}^{K} \sum_{i=1}^{n} \|x_i^{(j)} - \mu_j\|^2$$
 
 ---
 
-**Author:** Zouhira Ghenaim
+**Author:** **Zouhira Ghenaim**
